@@ -117,7 +117,7 @@ def run_the_game():
         #move2
         print ("")
         player = "O"
-        print ("Player Two: {}".format(player))
+        print ("Player Second: {}".format(player))
         print ("")
         
         x, y = ask_player()
